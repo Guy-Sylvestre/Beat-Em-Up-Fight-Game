@@ -1,0 +1,438 @@
+Unity Editor version:    2021.3.4f1 (cb45f9cae8b7)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #58~20.04.1-Ubuntu SMP Tue Jun 14 11:29:12 UTC 2022
+Kernel version:          5.13.0-51-generic
+Architecture:            x86_64
+Available memory:        7848 MB
+Using pre-set license
+Pro License: YES
+
+(Unity:33401): Gdk-CRITICAL **: 12:36:43.021: gdk_window_get_cursor: assertion 'GDK_IS_WINDOW (window)' failed
+Desktop is 3520 x 1080 @ 60 Hz
+Initialize udev device monitor.
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+/media/pcoder/Pcoder/Projects/c#/unity/3D/Beat Em Up Fight Game
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+43317
+Successfully changed project path to: /media/pcoder/Pcoder/Projects/c#/unity/3D/Beat Em Up Fight Game
+/media/pcoder/Pcoder/Projects/c#/unity/3D/Beat Em Up Fight Game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 284.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path /home/pcoder/Unity/Hub/Editor/2021.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /media/pcoder/Pcoder/Projects/c#/unity/3D/Beat Em Up Fight Game/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Mesa DRI Intel(R) HD Graphics 4400 (HSW GT2)
+Vendor:   Intel Open Source Technology Center
+Version:  4.5 (Core Profile) Mesa 21.2.6
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_multi_draw_indirect GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_APPLE_object_purgeable GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elemen
+ts_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_samp
+le_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL
+_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer
+_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_n
+o_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1467724800
+Initialize mono
+Mono path[0] = '/home/pcoder/Unity/Hub/Editor/2021.3.4f1/Editor/Data/Managed'
+Mono path[1] = '/home/pcoder/Unity/Hub/Editor/2021.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
+Mono config path = '/home/pcoder/Unity/Hub/Editor/2021.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56401
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/pcoder/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/pcoder/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /home/pcoder/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.025158 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 177.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.377 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1378ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1031ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (210ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (605ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (118ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (178ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (92ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.259837 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /media/pcoder/Pcoder/Projects/c#/unity/3D/Beat Em Up Fight Game/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /media/pcoder/Pcoder/Projects/c#/unity/3D/Beat Em Up Fight Game/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.075 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4077ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (3484ms)
+			LoadAssemblies (1531ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (578ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (1041ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (29ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (244ms)
+				ProcessInitializeOnLoadAttributes (612ms)
+				ProcessInitializeOnLoadMethodAttributes (139ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.46 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3380 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (73.0 KB). Loaded Objects now: 3840.
+Memory consumption went from 112.8 MB to 112.7 MB.
+Total: 6.404005 ms (FindLiveObjects: 0.480758 ms CreateObjectMapping: 0.449910 ms MarkObjects: 5.160737 ms  DeleteObjects: 0.310013 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11719.463015 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets
+  artifactKey: Guid(cacdd5072254a5e9f99766008713d4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets using Guid(cacdd5072254a5e9f99766008713d4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b8d197c635fa875821aac1c34cf337') in 0.050546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Enemy
+  artifactKey: Guid(7894bd835009b46378dbd2c539b4026c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Enemy using Guid(7894bd835009b46378dbd2c539b4026c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40678860992803b342f11b7e624eb31') in 0.036847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 135.433553 seconds.
+  path: Assets/Scripts/Player/PlayerAttack.cs
+  artifactKey: Guid(c3e09849c45fb22e98b07bb8a88dc470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/PlayerAttack.cs using Guid(c3e09849c45fb22e98b07bb8a88dc470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087c36d53857c9e60eba415f06ed3d61') in 0.044990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 464.263284 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Attack 1.anim
+  artifactKey: Guid(a25595c4fda0f99f5a6d55c8b6a51d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Attack 1.anim using Guid(a25595c4fda0f99f5a6d55c8b6a51d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '502361d52219a05e55f693231288a489') in 0.138216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.754954 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Attack 2.anim
+  artifactKey: Guid(7eaad61810da3622e9ed140f6be2e9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Attack 2.anim using Guid(7eaad61810da3622e9ed140f6be2e9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cef7ca928dfc5397057c88c36928bf8') in 0.062908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.889153 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Attack 3.anim
+  artifactKey: Guid(ce556bec2cbed8ce6ab5af65286a6c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Attack 3.anim using Guid(ce556bec2cbed8ce6ab5af65286a6c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1abb512d8deb293d4671342dcebe5e8') in 0.103077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 90.916783 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Death.anim
+  artifactKey: Guid(8f4351eefb9986458a459db2a75dad8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Death.anim using Guid(8f4351eefb9986458a459db2a75dad8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ee8eb3e2cfd209944d6974989e1beb') in 0.138431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.342081 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy1_KnockDown_Down.anim
+  artifactKey: Guid(195a7b27ddf47a3bcbe676a45444ebbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy1_KnockDown_Down.anim using Guid(195a7b27ddf47a3bcbe676a45444ebbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935653af4f08ed2689d1f795cccdc9a0') in 0.071122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.450362 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy KnockDown Down.anim
+  artifactKey: Guid(195a7b27ddf47a3bcbe676a45444ebbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy KnockDown Down.anim using Guid(195a7b27ddf47a3bcbe676a45444ebbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee4e8e9fbc41369ea702d4ab8cd67c8') in 0.068953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.275711 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy1_KnockDown_End.anim
+  artifactKey: Guid(69eb67c4697246543a849a6401e54573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy1_KnockDown_End.anim using Guid(69eb67c4697246543a849a6401e54573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b6e6ff364efb7fde6c56d6c0cf2830') in 0.257863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.840017 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Knockdown End.anim
+  artifactKey: Guid(69eb67c4697246543a849a6401e54573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Knockdown End.anim using Guid(69eb67c4697246543a849a6401e54573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5334a068aa911d5d1159a084a98263') in 0.133061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.339111 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Knockdown Up.anim
+  artifactKey: Guid(ab6de27d0b0afb4fd9ef5c60d22f2a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Knockdown Up.anim using Guid(ab6de27d0b0afb4fd9ef5c60d22f2a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a40476e4141ff51f0fe3b7b0139960') in 0.062094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.124905 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy1_Walk.anim
+  artifactKey: Guid(85dc2143a44de20b2b7a9b5e25c8fbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy1_Walk.anim using Guid(85dc2143a44de20b2b7a9b5e25c8fbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34500e23af133c201034d2a7f56064c4') in 0.089683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.186770 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Stand Up.anim
+  artifactKey: Guid(173a7e28cada5455681fb6f971ef5cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Stand Up.anim using Guid(173a7e28cada5455681fb6f971ef5cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067c6235e96d3519c81465789e89b615') in 0.082200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.371415 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Walk.anim
+  artifactKey: Guid(85dc2143a44de20b2b7a9b5e25c8fbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Walk.anim using Guid(85dc2143a44de20b2b7a9b5e25c8fbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f522074669bae6fb5be1ce1c1ea59220') in 0.086796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.309784 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Controller.controller
+  artifactKey: Guid(cc41b06c191648c3b92f662c31949d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Controller.controller using Guid(cc41b06c191648c3b92f662c31949d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a21a0a4f834edad5bef4f388dd961f') in 0.243519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 502.834826 seconds.
+  path: Assets/Textures/Enemy/Enemy_D.png
+  artifactKey: Guid(eb5e0cb12c52a49b3b05582ac4939f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Enemy/Enemy_D.png using Guid(eb5e0cb12c52a49b3b05582ac4939f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32ef8c2045e222f0f017a14a6995ec7') in 0.187857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.759585 seconds.
+  path: Assets/Textures/Enemy/Enemy_N.png
+  artifactKey: Guid(ede42fde13966402e99cd81d28886c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Enemy/Enemy_N.png using Guid(ede42fde13966402e99cd81d28886c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b811b296930f1423b5017642e76198a') in 0.128990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.516279 seconds.
+  path: Assets/Textures/Enemy/Enemy_N.png
+  artifactKey: Guid(ede42fde13966402e99cd81d28886c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Enemy/Enemy_N.png using Guid(ede42fde13966402e99cd81d28886c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02283920d41f3c3d74361fe35d9ec2c1') in 1.837357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.315758 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building01.png
+  artifactKey: Guid(1a4e27e5c162b254b906900958cb2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building01.png using Guid(1a4e27e5c162b254b906900958cb2e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc64cc279382f6f5277df7f06acba6cd') in 0.239088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building02.png
+  artifactKey: Guid(3909f17fdbce58c479f6c268d0cd1a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building02.png using Guid(3909f17fdbce58c479f6c268d0cd1a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b880f10ff03c3e99d7ab6f6aef19c2d0') in 0.166354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/NightCubeMap.cubemap
+  artifactKey: Guid(7c924a32d89638446a3f0996814f1410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/NightCubeMap.cubemap using Guid(7c924a32d89638446a3f0996814f1410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcdd61c47bddd9b0d7325c28729a2cb') in 0.420165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Hit FX/Textures/HitEffectSpriteSheet.png
+  artifactKey: Guid(ede5a07f07e5a9f4caeda22049362fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Hit FX/Textures/HitEffectSpriteSheet.png using Guid(ede5a07f07e5a9f4caeda22049362fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47e2194882670bd4309db34eea3519b') in 0.143048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/MatCapEnvironment2.png
+  artifactKey: Guid(9e61c03a2d82ac048b09ba38008c3941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/MatCapEnvironment2.png using Guid(9e61c03a2d82ac048b09ba38008c3941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c058e030daed35986575e0224429ad96') in 0.393100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/UI/HealthBarBg.png
+  artifactKey: Guid(6e7730c062dd41b34ba4d9515c5f635b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/UI/HealthBarBg.png using Guid(6e7730c062dd41b34ba4d9515c5f635b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a4db7012a34a56a57c927970b4fb44') in 0.384815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building01_LightMap.png
+  artifactKey: Guid(299ffe0446145154189f3c1b79bb2d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building01_LightMap.png using Guid(299ffe0446145154189f3c1b79bb2d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08384f4978cfd626c9cb33ef56012256') in 0.221896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/NightSkyTile.png
+  artifactKey: Guid(706ba9c77b8e12a4a8a1cccc5e14b5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/NightSkyTile.png using Guid(706ba9c77b8e12a4a8a1cccc5e14b5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a118336e95b49bc6e54ca40209413b9') in 0.244574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/UI/HealthBarGreen.png
+  artifactKey: Guid(2c81d92aa5c1dff3bbd3ec0ca706452c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/UI/HealthBarGreen.png using Guid(2c81d92aa5c1dff3bbd3ec0ca706452c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c206e3130bf9fcba3c7a133bc88faf') in 0.150954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Graffitti.png
+  artifactKey: Guid(46bdeeb0040e59f479f1675126115353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Graffitti.png using Guid(46bdeeb0040e59f479f1675126115353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90fdb3d12c2bbffba5e4a6c9690ff3bd') in 0.194663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/UI/Char1HUDIcon.png
+  artifactKey: Guid(f9267e77bc3deb1c78f0dd6c4f61cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/UI/Char1HUDIcon.png using Guid(f9267e77bc3deb1c78f0dd6c4f61cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65dff721b3e1438c7d0e1e20ba009e8a') in 0.165786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Foliage.tga
+  artifactKey: Guid(964b1fd1b2649374f83801c643172416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Foliage.tga using Guid(964b1fd1b2649374f83801c643172416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37075ac446b3b91ecb8e73a3ff782aac') in 0.079976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Lamps.tga
+  artifactKey: Guid(99328b240dfd5294d8f0735e6c557a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Lamps.tga using Guid(99328b240dfd5294d8f0735e6c557a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990a0df0e39a5f20649a764d6b83ce04') in 0.089711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building02_LightMap.png
+  artifactKey: Guid(d97833696711af748b9a2530a36c2b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Building02_LightMap.png using Guid(d97833696711af748b9a2530a36c2b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f872854e601ea7a1c484b0f6104dda3') in 0.206696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.020766 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/PavementTile.png
+  artifactKey: Guid(85cb125adec5558408e9e368fdf99337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/PavementTile.png using Guid(85cb125adec5558408e9e368fdf99337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aea4fbd7c35863e22b06d876e65376a') in 0.558206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/RadialGradient.png
+  artifactKey: Guid(510581babf6aedb1bb55904d47fbca91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/RadialGradient.png using Guid(510581babf6aedb1bb55904d47fbca91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e3f26c2fb8a9d49c9344e8f391cd586') in 0.387301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Road_D-A.tga
+  artifactKey: Guid(2206940265b5f7f479f100cedafc1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Road_D-A.tga using Guid(2206940265b5f7f479f100cedafc1d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f0867eb8dabdd14dcbeccb8024e96c') in 0.276849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/TrashProps.tga
+  artifactKey: Guid(60f782863c0130147927330d6dc1e152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/TrashProps.tga using Guid(60f782863c0130147927330d6dc1e152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df78a2186477e06d9d6fe317bd43032c') in 0.159546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Road_LightMap.png
+  artifactKey: Guid(5677668ab7476af47bac014612351c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/Road_LightMap.png using Guid(5677668ab7476af47bac014612351c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6162bac276690fc277dc8300f53ccaef') in 0.176340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/RoadBarrier_D-S.tga
+  artifactKey: Guid(336b3865da0b0bd4192e6f99e09b4010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Models/Environment/Textures/RoadBarrier_D-S.tga using Guid(336b3865da0b0bd4192e6f99e09b4010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c562964d34ce6d3c4ade51cd05fb12a0') in 0.065452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Importations/3D Beat Em Up Assets/Hit FX/Textures/RadialGradient.png
+  artifactKey: Guid(8feb0e228155ed24390789c0618282c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Importations/3D Beat Em Up Assets/Hit FX/Textures/RadialGradient.png using Guid(8feb0e228155ed24390789c0618282c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d245bca5b153ceab8713df900500ca') in 0.053558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16761.562647 seconds.
+  path: Assets/Prefas/Enemy/Enemy.prefab
+  artifactKey: Guid(2a057322c4ad5af899ba7065a2486a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefas/Enemy/Enemy.prefab using Guid(2a057322c4ad5af899ba7065a2486a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d323d88aafcadab2e3f13f81592043') in 0.864157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 513.269564 seconds.
+  path: Assets/Animations/Enemy/Animations/Enemy Controller.controller
+  artifactKey: Guid(cc41b06c191648c3b92f662c31949d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Enemy/Animations/Enemy Controller.controller using Guid(cc41b06c191648c3b92f662c31949d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910810d24b13267cedd5f570dccafbe4') in 0.096889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1755.632442 seconds.
+  path: Assets/Scripts/Enemy/EnemyMovement.cs
+  artifactKey: Guid(f169d7980d9f77a6a9e032e9e0520014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemy/EnemyMovement.cs using Guid(f169d7980d9f77a6a9e032e9e0520014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4b36a52f5c3d231e5c6fda7ed78c9f') in 0.023786 seconds 
