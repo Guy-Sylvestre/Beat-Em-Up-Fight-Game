@@ -349,7 +349,9 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Enemy/EnemyMovement.cs"
 "Assets/Scripts/Helper Scripts/TagManager.cs"
+"Assets/Scripts/Player/AttackUniversal.cs"
 "Assets/Scripts/Player/CharacterAnimation.cs"
+"Assets/Scripts/Player/CharacterAnimationDelegate.cs"
 "Assets/Scripts/Player/PLayerMovement.cs"
 "Assets/Scripts/Player/PlayerAttack.cs"
 -langversion:9.0

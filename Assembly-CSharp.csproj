@@ -41,6 +41,8 @@
      <Compile Include="Assets/Scripts/Player/PLayerMovement.cs" />
      <Compile Include="Assets/Scripts/Helper Scripts/TagManager.cs" />
      <Compile Include="Assets/Scripts/Enemy/EnemyMovement.cs" />
+     <Compile Include="Assets/Scripts/Player/AttackUniversal.cs" />
+     <Compile Include="Assets/Scripts/Player/CharacterAnimationDelegate.cs" />
      <None Include="Assets/Importations/3D Beat Em Up Assets/Shaders/AdditiveTint.shader" />
      <None Include="Assets/Importations/3D Beat Em Up Assets/Shaders/UnlitLightMapEmissive.shader" />
      <None Include="Assets/Importations/3D Beat Em Up Assets/Shaders/MatCapAdd.shader" />
